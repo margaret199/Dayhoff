@@ -2,7 +2,7 @@
 Micro-array based disease prediction using Deep Neural Network
 
 ## Description
-Using Convolutional Neural Network(CNN) for classification of micro-array is what this project all about. The same model after traning can also be used for the disease prediction, drug desing using exceptional responders data and much more. The name of the Project is Dayhoff as ***Margaret Dayhoff*** is cosidered as the mother of mordern day Bio-Informatics. 
+Using Convolutional Neural Network(CNN) for classification of micro-array is what this project all about. The same model after traning can also be used for disease prediction, drug desing using exceptional responder's EHR Data and much more. The name of this Project is Dayhoff as ***Margaret Dayhoff*** is cosidered the mother of mordern Bio-Informatics. 
 
 ### Technologies Used
 1. Deep Neural Network
