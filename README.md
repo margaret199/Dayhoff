@@ -16,3 +16,8 @@ Using Convolutional Neural Network(CNN) for classification of micro-array is wha
 ### Tools Used
 1. Jupyter Notebook
 2. Micro Array
+#Chroms detector
+Micro-array based disease prediction for the detection of chromosomal disordered foetus.
+By predicting the disorders by the aminotic fluid is collected and loaded the result will generate in hour's
+It will be more accurate that karotyping method.
+Cost will be lesser and than karotyping,result be acurate.
