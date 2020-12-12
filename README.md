@@ -21,3 +21,5 @@ Micro-array based disease prediction for the detection of chromosomal disordered
 By predicting the disorders by the aminotic fluid is collected and loaded in the device the result will generate in hour's
 It will be more accurate than karotyping method.
 Cost will be lesser and than karotyping, and the results will be more acurate.
+# Nano Pred
+list of features, negative and positive data set
